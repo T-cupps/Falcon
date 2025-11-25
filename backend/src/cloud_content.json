@@ -1,0 +1,32 @@
+[
+    {
+        "id": "cloud_intro",
+        "title": "Introduction to Cloud Computing",
+        "summary": "Cloud computing delivers computing services \u2014 servers, storage, databases, networking, software \u2014 over the internet ('the cloud') to offer faster innovation, flexible resources, and economies of scale.",
+        "sample_question": "What is cloud computing and what are three key benefits of using it?"
+    },
+    {
+        "id": "service_models",
+        "title": "Service Models (IaaS, PaaS, SaaS)",
+        "summary": "IaaS provides virtualized computing resources, PaaS offers platforms for building applications, and SaaS delivers ready-to-use software over the internet.",
+        "sample_question": "Give one example of IaaS, PaaS, and SaaS and a use-case for each."
+    },
+    {
+        "id": "virtualization",
+        "title": "Virtualization & Hypervisors",
+        "summary": "Virtualization creates multiple simulated environments or dedicated resources from a single physical hardware system using a hypervisor, improving utilization and isolation.",
+        "sample_question": "What is a hypervisor and why is virtualization important for cloud providers?"
+    },
+    {
+        "id": "containers_k8s",
+        "title": "Containers & Kubernetes",
+        "summary": "Containers package applications and their dependencies into lightweight, portable units. Kubernetes automates deployment, scaling, and management of containerized apps.",
+        "sample_question": "What is the difference between a virtual machine and a container?"
+    },
+    {
+        "id": "cloud_security",
+        "title": "Cloud Security Basics",
+        "summary": "Cloud security covers identity & access management, encryption, network controls, and the shared responsibility model between cloud providers and customers.",
+        "sample_question": "What is the shared responsibility model in cloud security?"
+    }
+]
