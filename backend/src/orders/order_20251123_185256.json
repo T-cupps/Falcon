@@ -1,0 +1,11 @@
+{
+    "drinkType": "americano",
+    "size": "extra large",
+    "milk": "almond",
+    "extras": [
+        "cinnamon"
+    ],
+    "name": "Shahid",
+    "timestamp": "2025-11-23T18:52:56.481449",
+    "session_id": "session_20251123_185256"
+}
