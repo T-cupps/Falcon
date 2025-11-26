@@ -11,7 +11,7 @@ from typing import Annotated, Literal, Optional
 from dataclasses import dataclass
 
 print("\n" + "💖" * 50)
-print("✨ CLOUD COMPUTING TUTOR - DAY 4 TUTORIAL")
+print("✨ CLOUD COMPUTING TUTOR")
 print("🌼 agent.py LOADED SUCCESSFULLY!")
 print("💖" * 50 + "\n")
 
